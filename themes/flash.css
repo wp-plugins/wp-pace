@@ -39,6 +39,10 @@
   transform: rotate(3deg) translate(0px, -4px);
 }
 
+.pace .pace-progress, .pace .pace-activity {
+  background: transparent !important;
+}
+
 .pace .pace-activity {
   display: block;
   position: fixed;
