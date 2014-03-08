@@ -32,7 +32,7 @@ There are two attributes you can use
 
 Example: `[pace color="#29d9dd" theme="minimal"]` or just `[pace]` will work fine. (the default color is #29d9dd and the default theme is minimal)
 
-There are eight themes to choose from
+There are ten themes to choose from
 
 * Minimal
 * Flash
@@ -42,6 +42,8 @@ There are eight themes to choose from
 * Flat-Top
 * CornderIndicator
 * Bounce
+* Big Counter
+* Center Circle
 
 == Installation ==
 
@@ -67,12 +69,21 @@ To view it in action you can go to <a href="http://pace.jamesdbruner.com/">pace.
 
 == Changelog ==
 
+= 2.0 =
+* Refactored the plugin to work within the pace class now
+* Added 2 more effects Big Counter and Center Circle
+* Minified the css for all of the efects
+* Minified pace.js
+
 = 1.0 =
 * First commit
 * Comes with a global option or you can use the shortcodes
 * Customize the color and choose a theme for your progress bar(s)
 
 == Upgrade Notice ==
+
+= 2.0 =
+It's better code that's less likely to conflict with other plugins.  Also I've reduced the size of all the css and js files and included two more cool effects.
 
 = 1.0 =
 Why update?  Because all the cool kids are doing it.
