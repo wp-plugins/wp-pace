@@ -67,6 +67,9 @@ This is largely due to the fact that every pace theme is included in this plugin
 
 To view it in action you can go to <a href="http://pace.jamesdbruner.com/">pace.jamesdbruner.com</a>
 
+1. Settings Page
+2. Big Counter Example
+
 == Changelog ==
 
 = 2.0 =
